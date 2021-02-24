@@ -4,6 +4,6 @@
 	</head>
 	
 	<body>
-		Login Successful! Welcome ${name }!
+		Login Successful! Welcome ${name }! <a href="/list-todos">Click here to manage Todo!</a>
 	</body>
 </html>

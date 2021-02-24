@@ -5,6 +5,6 @@ import org.springframework.stereotype.Component;
 @Component
 public class LoginService {
 	public boolean validateUser(String userid, String password) {
-		return userid.equals("kiran") && password.equals("password");
+		return userid.equals("Kiran") && password.equals("password");
 	}
 }
